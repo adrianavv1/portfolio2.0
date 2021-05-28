@@ -72,21 +72,21 @@
     "projects": [
       {
         "title": "Hulu Clone (React JS)",
-        "category": "",
+        "category": "Mobile-first responsive Hulu application clone. Built with REACT.js, Next.js, and Tailwind CSS. The movies populated in the app call the TMDB api.",
         "image": "hulu.jpg",
         "url": "https://hulu-clone2-0.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "TakeOff (React JS)",
+        "category": "A travel planner and blogger application. Users can keep track of current and past trips with an itinerary creation capability. Allows the user to keep track of trip events and be more flexible.",
+        "image": "takeoff.png",
+        "url": "https://takeoff123.herokuapp.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "No Waste Kitchen",
+        "category": "A simple app that helps you find recipes with ingredients that you already have at home.",
+        "image": "no-waste-kitchen.png",
+        "url": "https://adrianavv1.github.io/No-Waste-Kitchen/"
       }
     ]
   },
