@@ -35,15 +35,14 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Connecticut school of Engineering",
+        "graduated": "April 2020",
+        "description": "Intensive boot camp program focused on gaining technical programming and market-driven skills"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Known Point Technologies",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
