@@ -36,7 +36,7 @@
     "education": [
       {
         "school": "University of Connecticut school of Engineering",
-        "degree": "Certification, Full-Stack Web Developer",
+        "degree": "Certification, Full-stack Web Developer",
         "graduated": "April 2021",
         "description": "Intensive boot camp program focused on gaining technical programming and market-driven skills"
       }
@@ -50,12 +50,22 @@
       }
     ],
     "skills": [
-     {
-      "programming languages": "JavaScript, React.js, Node.js" 
-     }
-
-
-
+      {
+        "name": "JavaScript, React.js, Next.js, Node.js",
+        "title": "Programming languages"
+      },
+      {
+        "name": "HTML, CSS, jQuery, Redux, Express.js, Bootstrap, Materialize, Material UI, Tailwind CSS, Next.js",
+        "title": "Web Development"
+      },
+      {
+        "name": "SQL, MongoDB, MySQL, JSON, AJAX, RESTful APIs",
+        "title": "Database and Analytics"
+      },
+      {
+        "name": "Heroku, Git, Miro, Figma, User Auth",
+        "title": "Tools and Technologies"
+      }
     ]
   },
   "portfolio": {
