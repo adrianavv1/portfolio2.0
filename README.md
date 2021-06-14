@@ -1,6 +1,7 @@
 # Adriana's React.JS Resume and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](public\images\portfolio\portfolio.jpg)
+
+![portfolio](public\images\portfolio\portfolio.jpg)
 
 ### <a href="https://lucid-dubinsky-63b678.netlify.app/">LIVE DEMO</a>
 
