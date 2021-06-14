@@ -1,8 +1,8 @@
 # Adriana's React.JS Resume and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![PAPA React JS Portfolio Starter Pack](public\images\portfolio\portfolio.jpg)
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://lucid-dubinsky-63b678.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
